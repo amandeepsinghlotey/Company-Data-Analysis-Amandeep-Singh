@@ -1,5 +1,6 @@
 # Company-Data-Analysis-Amandeep-Singh
 ## Project Dashboards
+
 **Executive Dashboard –** This dashboard provides a high-level overview of key business metrics. It likely includes KPIs, trends, and visualizations such as bar charts, line graphs, and cards to track performance.
 
 **Map Visualization –** This visualization represents geographical data using a map. It could be showing sales by region, customer distribution, or any other location-based insights.
@@ -16,9 +17,15 @@
 
 
 ## Tools & Technologies Used
+
 **Power BI –** Data visualization, report building, and interactive dashboard creation.
+
 **DAX (Data Analysis Expressions) –** Used for custom calculations and measures.
+
 **Power Query (M Language) –** Data transformation and preprocessing.
+
 **AI Visuals (Key Influencer, Decomposition Tree) –** Machine learning-based insights.
+
 **Map Visuals (Bing Maps) –** Geographical data representation.
+
 **Tooltip & Interactivity Features –** Enhancing user experience with hover-over details.
